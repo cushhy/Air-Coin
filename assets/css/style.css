@@ -432,7 +432,7 @@ body {
 .gallery__inner {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .gallery__text {
@@ -567,7 +567,7 @@ body {
 .business__inner {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .business__text {
