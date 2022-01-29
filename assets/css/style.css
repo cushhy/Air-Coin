@@ -58,7 +58,7 @@ body {
 }
 
 .header.fixed .nav-toggle {
-    padding: 5px 0;
+    top: 2px;
 }
 
 .header__links {
@@ -112,7 +112,7 @@ body {
     cursor: pointer;
 
     position: absolute;
-    top: 24px;
+    top: 21 px;
     right: 24px;
     z-index: 1;
 }
